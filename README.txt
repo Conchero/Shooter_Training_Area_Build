@@ -13,7 +13,7 @@ And a sniper that have an electrical element component
 
 The electricity is strong against shields but weak against health 
 The fire is strong against health but weak against shields 
-The corrosion is strong against really effective against armor but weaker against health and shields
+The corrosion is really effective against armor but weaker against health and shields
 
 
 Controls:
